@@ -1,0 +1,15 @@
+{	
+
+	"manifest_version": 3,
+	"version": "1.0",
+	"name": "Web Tracker",
+	"action":{
+          "default_popup": "ChrExt.html"
+	},
+
+	"permissions": [
+		"tabs"
+	]
+
+	
+}
